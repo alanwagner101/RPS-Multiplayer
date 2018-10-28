@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+#container1 {
+    height: 700px;
+    margin: 20px;
+}
+
+#player1-form {
+    display: none;
+}
+
+#player2-form {
+    display: none;
+}
+
