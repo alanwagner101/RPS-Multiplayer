@@ -373,7 +373,7 @@ $(document).ready(function () {
 
             if (rps2 == "rock") {
                 $("#paper2").css("visibility", "hidden");
-                $("scissors2").css("visibility", "hidden");
+                $("#scissors2").css("visibility", "hidden");
             } else if (rps2 == "paper") {
                 $("#rock2").css("visibility", "hidden");
                 $("#scissors2").css("visibility", "hidden");
