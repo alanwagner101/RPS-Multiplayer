@@ -1,5 +1,7 @@
 # RPS-Multiplayer
 
+https://alanwagner101.github.io/RPS-Multiplayer/
+
 This is my rendition of the classic game "rock, paper, scissors" with added online multiplayer functionality.
 
 When you first open the webpage you are presented with two options, either chose to be player 1 on the left side of the screen or player 2 on the right side of the screen.
