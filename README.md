@@ -4,6 +4,8 @@ https://alanwagner101.github.io/RPS-Multiplayer/
 
 This is my rendition of the classic game "rock, paper, scissors" with added online multiplayer functionality.
 
+The challenge with this game was utilizing Google Firebase to allow data persistance and to keep track of how many players are on the website and detect when single users disconnect from the site to allow new users to enter.
+
 When you first open the webpage you are presented with two options, either chose to be player 1 on the left side of the screen or player 2 on the right side of the screen.
 
 When you choose which player you would like to be you are then asked to input a username for the purpose of identifying your side of the screen as well as identifying yourself in the chat screen. The option for the second player to choose that player position is removed from their screen immediately after submitting the username you selected.
